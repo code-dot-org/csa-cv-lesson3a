@@ -1,0 +1,26 @@
+.label {
+    -fx-font-size: 20px;
+}
+
+.vbox {
+    -fx-background-color: #f0f0f0;
+}
+
+#titleLabel {
+    -fx-font-size: 30px;
+    -fx-text-fill: #009EB0;
+    -fx-font-weight: bold;
+}
+
+.button {
+    -fx-background-color: #009EB0;
+    -fx-font-size: 20px;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-min-width: 100px;
+    -fx-min-height: 50px;
+}
+
+#loading {
+    -fx-progress-color: #009EB0;
+}
